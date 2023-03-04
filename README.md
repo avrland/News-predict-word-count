@@ -1,5 +1,8 @@
 # News-predict-word-count
-Model predicting word count from pasted news title. Notebook has whole process from data cleaning to model training. Added form to easily paste title to try, comparison to real value. 
+
+![ss1](https://github.com/avrland/News-predict-word-count/blob/main/chart.jpg)
+
+Linear regression model trying to predict word count from pasted news title. Notebook has whole process from data cleaning to model training. Added form to easily paste title to try, comparison to real value. 
 
 ```
 Entered title: Ze smartfonami jest jeszcze gorzej, niż myśleliśmy
